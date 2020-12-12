@@ -14,3 +14,12 @@
   - menggunakan bahasa python
   - masukkan maksimal banyak karakter bintang yang ingin ditampilkan
   - keluaran akan menampilkan bentuk segitiga rata kanan
+
+## 4.php
+  - menggunakan bahasa php
+  - digunakanan untuk menghubungkan tampilan dengan database (mysql)
+  - ada 4 fungsi yaitu, insertall, tampilSemua, tampilSesuaiSkill, tampilSpesifikUser
+  - insertall: untuk menginput semua data, id, nama, photo, skill
+  - tampilSemua: untuk menampilkan semua data, id, nama, photo, skill
+  - tampilSesuaiSkill: untuk menampilkan semua data user bedasarkan skill yang dicari
+  - tampilSpesifikUser: untuk menampilkan id, skill berdasarkan nama
