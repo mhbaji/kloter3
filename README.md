@@ -23,3 +23,8 @@
   - tampilSemua: untuk menampilkan semua data, id, nama, photo, skill
   - tampilSesuaiSkill: untuk menampilkan semua data user bedasarkan skill yang dicari
   - tampilSpesifikUser: untuk menampilkan id, skill berdasarkan nama
+
+## 4.html
+  - menggunakan bahasa html
+  - digunakan untuk menampilkan dan menginputkan data dari dan ke user
+  - 
